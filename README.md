@@ -8,6 +8,13 @@ Cafe DJ is a powerful, easy-to-use, and fun Discord music bot that lets you play
 
 ---
 
+## 🌐 Invite the Bot
+
+Want to bring Cafe DJ to your own server?  
+👉 [**Click here to Invite**](https://discord.com/oauth2/authorize?client_id=1375869433754685641)
+---
+
+
 ## 🚀 Features
 
 - Easy-to-use music commands
